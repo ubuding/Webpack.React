@@ -1,6 +1,6 @@
 # Webpack
 
-> A front-end framework without a technology stack
+> A complete front-end framework
 
 ## Development
 
@@ -8,7 +8,7 @@
 
 ## Request
 
-> Integrates `axios` with webpack for proxy requests
+> Use `axios` with `@request` with webpack proxy
 
 ## Globalization
 
