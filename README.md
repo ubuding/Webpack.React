@@ -1,4 +1,4 @@
-# Webpack
+# Webpack.React
 
 > A stateless front-end framework
 
