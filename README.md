@@ -27,5 +27,5 @@
 
 > Style processing through `tailwindcss`
 
-![image](https://github.com/ubuding/Webpack/blob/ubuding/README/dark.jpg)
-![image](https://github.com/ubuding/Webpack/blob/ubuding/README/light.jpg)
+![image](https://github.com/ubuding/Webpack/blob/ubuding/README/dark.png)
+![image](https://github.com/ubuding/Webpack/blob/ubuding/README/light.png)
