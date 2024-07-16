@@ -1,0 +1,27 @@
+{
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.d.ts"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "es2016",
+    "lib": ["DOM", "es2016"],
+    "jsx": "react",
+    "module": "commonjs",
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "#/*": ["./src/components/*"],
+      "@/*": ["./src/modules/*"],
+      "@layout/*": ["./src/layout/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@style/*": ["./src/style/*"],
+      "@i18n": ["./src/i18n.ts"],
+      "@router": ["./src/router.tsx"],
+      "@request": ["./src/request.ts"]
+    },
+    "types": ["node", "webpack", "webpack-env"],
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Orbitron";
+  font-style: normal;
+  src: url("@assets/fonts/Orbitron.ttf");
+}
+
+body {
+  font-family: "Orbitron" !important;
+}
