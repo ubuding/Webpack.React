@@ -1,7 +1,7 @@
 import React from "react";
-import { getYiyan } from "@/overview/service";
-import { useTranslation, useLocales } from "@i18n";
 import { useDarkmode } from "@style/core";
+import { useTranslation, useLocales } from "@i18n";
+import { getYiyan } from "@/overview/service";
 export default function Overview() {
   const darkMode = useDarkmode();
   const lng = useLocales();
