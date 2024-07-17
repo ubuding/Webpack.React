@@ -37,7 +37,7 @@ export default function Overview() {
         </div>
       </div>
       <div
-        className="w-[580px] h-[50px] rounded-full flex justify-center items-center mx-auto bg-white text-black cursor-pointer relative  shadow-md shadow-[var(--primary-color)] cursor-pointer hover:bg-[var(--primary-color)] hover:text-white"
+        className="w-[580px] h-[50px] rounded-full flex justify-center items-center mx-auto bg-white text-black relative  shadow-md shadow-[var(--primary-color)] cursor-pointer hover:bg-[var(--primary-color)] hover:text-white"
         onClick={() => {
           window.open("https://github.com/ubuding/Webpack.React", "_blank");
         }}
