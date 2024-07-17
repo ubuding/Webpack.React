@@ -15,7 +15,6 @@ export default function Overview() {
     <div className="w-full h-full flex flex-1 justify-center items-center">
       <div className="flex absolute top-2 right-2">
         <div
-          key={darkMode.value}
           className="rounded-full p-2 cursor-pointer shadow-md shadow-[var(--primary-color)]"
           onClick={() => {
             lng.change(lng.value === "zh" ? "en" : "zh");
