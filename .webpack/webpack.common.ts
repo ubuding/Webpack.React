@@ -83,7 +83,7 @@ export default (env: ENV) => {
       ],
     },
     resolve: {
-      extensions: [".tsx", ".ts", ".js"],
+      extensions: [".tsx", ".ts", ".js", "json"],
       alias: {
         "#": path.resolve(__dirname, "../src/components"),
         "@": path.resolve(__dirname, "../src/modules"),
