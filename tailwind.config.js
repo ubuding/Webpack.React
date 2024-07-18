@@ -4,6 +4,9 @@ module.exports = {
   content: ["./src/**/*.tsx"],
   theme: {
     extend: {
+      colors: {
+        primary: "var(--primary-color)",
+      },
       fontFamily: {
         Orbitron: ["Orbitron"],
       },

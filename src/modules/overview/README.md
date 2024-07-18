@@ -9,3 +9,7 @@
 ### Modular Service
 
 > Use `axios` via `@/moduleName/service`
+
+### Modular Store
+
+> Use `zustand` via `import { useModuleNameStore } from "@/moduleName/store"`

@@ -1,6 +1,6 @@
 # Webpack.React
 
-> A stateless front-end framework
+> A complete front-end framework
 
 ## Development
 
@@ -9,6 +9,10 @@
 ## Request
 
 > Use `axios` with `@request` with webpack proxy
+
+## State Management
+
+> Use `zustand` for state management. If you need to use other state management, please rest assured that you can easily replace it.
 
 ## Globalization
 
