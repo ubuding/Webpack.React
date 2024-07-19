@@ -1,7 +1,6 @@
 {
   "name": "Webpack.React",
   "version": "1.0.0",
-  "main": "index.ts",
   "repository": "git@github.com:ubuding/Webpack.React.git",
   "author": "ubuding",
   "license": "MIT",
