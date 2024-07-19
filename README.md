@@ -16,7 +16,7 @@
 
 ## Globalization
 
-> Internationalization with react-i18next, using `useLocales`, `useTranslation` in `@i18n` for translation and switching
+> Internationalization with `react-i18next`, using `useLocales`, `useTranslation` in `@i18n` for translation and switching
 
 ## Theme Scheme
 
